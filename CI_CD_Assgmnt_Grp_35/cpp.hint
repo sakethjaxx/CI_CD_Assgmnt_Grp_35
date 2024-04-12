@@ -1,0 +1,2 @@
+#define CICDASSGMNTGRP35_API __declspec(dllexport)
+#define CICDASSGMNTGRP35_API __declspec(dllimport)
