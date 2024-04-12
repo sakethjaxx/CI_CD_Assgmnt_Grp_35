@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CI_CD_Assgmnt_Grp_35", "CI_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTest1", "UnitTest1\UnitTest1.vcxproj", "{B5538A4D-A85E-476A-B9AC-002F5432BDF2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pipelines_Exe", "Pipelines_Exe\Pipelines_Exe.vcxproj", "{C1818C00-6E68-4011-A143-56963D37CBD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{B5538A4D-A85E-476A-B9AC-002F5432BDF2}.Release|x64.Build.0 = Release|x64
 		{B5538A4D-A85E-476A-B9AC-002F5432BDF2}.Release|x86.ActiveCfg = Release|Win32
 		{B5538A4D-A85E-476A-B9AC-002F5432BDF2}.Release|x86.Build.0 = Release|Win32
+		{C1818C00-6E68-4011-A143-56963D37CBD6}.Debug|x64.ActiveCfg = Debug|x64
+		{C1818C00-6E68-4011-A143-56963D37CBD6}.Debug|x64.Build.0 = Debug|x64
+		{C1818C00-6E68-4011-A143-56963D37CBD6}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1818C00-6E68-4011-A143-56963D37CBD6}.Debug|x86.Build.0 = Debug|Win32
+		{C1818C00-6E68-4011-A143-56963D37CBD6}.Release|x64.ActiveCfg = Release|x64
+		{C1818C00-6E68-4011-A143-56963D37CBD6}.Release|x64.Build.0 = Release|x64
+		{C1818C00-6E68-4011-A143-56963D37CBD6}.Release|x86.ActiveCfg = Release|Win32
+		{C1818C00-6E68-4011-A143-56963D37CBD6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
